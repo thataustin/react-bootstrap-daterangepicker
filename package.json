@@ -21,10 +21,6 @@
     "bootstrap-daterangepicker": "^2.1.24",
     "object-assign": "^4.1.0"
   },
-  "peerDependencies": {
-    "jquery": ">=2.0.0",
-    "react": ">=15.0.0"
-  },
   "devDependencies": {
     "babel-preset-es2015": "^6.14.0",
     "babel-preset-react": "^6.11.1",
